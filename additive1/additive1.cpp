@@ -15,7 +15,7 @@ bool intsegment(const string ins, const int v1, const int v2);
 
 int main()
 {
-	int x;
+	string x;
 	additivenumbers(0, 1000000);
 
 
